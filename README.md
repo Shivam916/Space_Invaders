@@ -1,4 +1,4 @@
-# Space_Invasion
+# Space_Invaders
 Title: Space Invaders - JavaScript Game
 ![image](https://github.com/Shivam916/Space_Invasion/assets/104616434/584b5667-4e4a-4a27-a9c6-cb0eaffd025c)
 
